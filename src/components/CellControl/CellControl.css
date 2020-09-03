@@ -1,0 +1,15 @@
+.CellControl {
+    height: 200px;
+    width: 200px;
+    background-color: initial;
+    padding: 8px;
+    box-sizing: border-box;
+    /* border: 1px solid #c3c3c3; */
+    border-radius: 5px;
+    display: inline-table;
+    margin-left:50px;
+}
+.Img {
+    height: 80%;
+    width: 80%;
+}

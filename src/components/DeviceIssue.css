@@ -1,0 +1,45 @@
+.DeviceIssue {
+    width: 100%;
+    height: 60px;
+    background-color: initial;
+    padding: 8px;
+    box-sizing: border-box;
+    /* border: 1px solid #c3c3c3; */
+    border-radius: 5px;
+    margin: 0;
+    margin-top: 20px;
+    padding: 0;
+    list-style: none;
+    flex-flow: column;
+    overflow-x: auto; 
+    overflow-y: hidden; 
+    white-space: nowrap; 
+    scroll-padding-inline: initial;
+}
+.DeviceIssue.a {
+    color: #8F5C2C;
+    text-decoration: none;
+    width: 100%;
+    box-sizing: border-box;
+    display: block;
+}
+.DeviceIssue a:hover,
+.DeviceIssue a:active,
+.DeviceIssue a.active {
+    color: #40A4C8;
+    width: 400px;
+    border: 1px solid #c3c3c3;
+    border-radius: 5px;
+}
+.Category {
+    position: relative;
+    width: 400px;
+    height: 100%;
+    /* border: 1px solid #c3c3c3; */
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-left: 150px;
+    padding: 0;
+    display: initial;
+    flex-flow: column;
+}
